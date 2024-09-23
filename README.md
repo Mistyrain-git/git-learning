@@ -11,4 +11,4 @@
     Joy也修改了这一部分，python线程不行
 
 ## token 7 days
-    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
+    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
